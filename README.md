@@ -1,4 +1,4 @@
-Car Sales Analysis with Power BI
+## Car Sales Analysis with Power BI
 
 📊 Project Overview
 
@@ -42,7 +42,7 @@ Use filters and slicers for custom data analysis.
 
 🤝 Contributors
 
-Group 5
+Kausara Kpabia, Koby Adisenu, Mary Asare, Akosua Mensah, Lydia Fordjour
 
 📬 Contact
 
